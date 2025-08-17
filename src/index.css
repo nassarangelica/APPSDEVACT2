@@ -9,7 +9,7 @@
 
 .bt-hover:hover{
 
-    background-color: rgb(7, 104, 239);
+    background-color: rgb(135, 139, 145);
     color: black;
     transition: .2s ease-in-out;
 }
@@ -18,7 +18,7 @@
 }
 
 .cardhover:hover{
-    border: 1px solid rgba(145, 145, 145, 0.712);
+    border: 1px solid rgba(175, 157, 157, 0.712);
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 }
 
